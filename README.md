@@ -45,7 +45,7 @@ This guide will help you set up a Flask server on your Raspberry Pi that uses th
 
    [Hugging Face Hub](https://huggingface.co/google/gemma-3n-E2B-it-litert-preview)
 
-   [Google Drive](https://drive.google.com/file/d/1JKFt9RB6EDwQm_RZ0aWcYo81g6C8jdTT/view?usp=sharing)
+   [Google Drive](https://drive.google.com/file/d/1JKFt9RB6EDwQm_RZ0aWcYo81g6C8jdTT/view?usp=sharing)(**Invalid**)
 
 6. **Save the Python script**:
    Save the provided `app.py` script in your project directory:
